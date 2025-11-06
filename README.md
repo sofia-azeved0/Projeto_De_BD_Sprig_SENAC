@@ -1,7 +1,7 @@
 # 🌾 Projeto de Banco de Dados – Sprig  
 
 ## 📖 Descrição Geral  
-Este projeto foi desenvolvido como parte do **Projeto Integrador (PI)** da disciplina de **Banco de Dados – DQL e DTL**.  
+Este projeto foi desenvolvido como parte do **Projeto Integrador (PI)** da disciplina de **Banco de Dados**.  
 O objetivo foi criar a **modelagem e implementação do banco de dados** do sistema **Sprig**, uma plataforma web que integra **controle de estoque, logística, rastreamento e transparência pública** do **Programa de Aquisição e Distribuição de Sementes**.  
 
 O Sprig busca **digitalizar e automatizar o ciclo logístico das sementes**, oferecendo **eficiência, sustentabilidade e acesso transparente às informações** para gestores, técnicos e agricultores.  
@@ -63,14 +63,17 @@ Para enriquecer a modelagem e aproximar o projeto da realidade, foram feitos apr
 ---
 
 ## 🧩 Modelo Entidade-Relacionamento (MER)  
-> Inserir imagem do MER aqui (exemplo):  
-> `![MER](./diagramas/mer-sprig.png)`
+> Imagem do MER:  
+> <img width="1713" height="799" alt="MER_Sprig" src="https://github.com/user-attachments/assets/8433f72e-8cb0-4ce3-b7f2-d9d8ca07c67a" />
+
+
 
 ---
 
 ## 🧠 Modelo Relacional (MR)  
-> Inserir imagem do MR aqui (exemplo):  
-> `![MR](./diagramas/mr-sprig.png)`
+> Imagem do MR:  
+> <img width="1869" height="1246" alt="MR_Sprig" src="https://github.com/user-attachments/assets/b69b2160-fe8d-4bee-9dfd-749f447277fa" />
+
 
 ---
 
@@ -98,25 +101,19 @@ A estrutura criada permite:
 ---
 
 ## 👩‍💻 Autoras  
-- [Nome da Autora 1]  
-- [Nome da Autora 2]  
-- [Nome da Autora 3]  
-- [Nome da Autora 4]  
+- Abigail Maria Gonçalves Nazário  
+- Kallyne Victória Gomes De Melo
+- Sofia Leitão de Azevedo
+- Tamirys Maria Silva da Costa
 
 ## 🌐 LinkedIn  
-- [Nome da Autora 1] → [linkedin.com/in/nome1](#)  
-- [Nome da Autora 2] → [linkedin.com/in/nome2](#)  
-- [Nome da Autora 3] → [linkedin.com/in/nome3](#)  
-- [Nome da Autora 4] → [linkedin.com/in/nome4](#)  
+- Abigail Maria → https://www.linkedin.com/in/abigail-nazario  
+- Kallyne Victória → https://www.linkedin.com/in/kallynemelo
+- Sofia Leitão → https://www.linkedin.com/in/sofialeitaodeazevedo
+- Tamirys Maria → https://www.linkedin.com/in/tamirys-maria-75107735a
 
 ---
 
 ## 📚 Professor Orientador  
 **Danilo Farias Soares da Silva**  
-Disciplina: Banco de Dados – DQL e DTL  
-Curso: Tecnologia em Análise e Desenvolvimento de Sistemas  
-
----
-
-## 🗓️ Ano  
-**2025**
+Disciplina: Banco de Dados  
